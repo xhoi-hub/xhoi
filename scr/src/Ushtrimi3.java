@@ -13,6 +13,7 @@ public class Ushtrimi3 {
             }
             System.out.println("fjala e ndryshuar: " + result.trim());
         }
+        //punoi xhuend hysa//
 
     }
 
